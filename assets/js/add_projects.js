@@ -137,12 +137,26 @@ const projects = [
     title: "Portfolio Website",
     imgSrc: "images/portfolio.JPG",
     description:
-      "A game that was made in collaboration with three other teammates as we worked through the challenge of learning an entirely new game engine and programming language all while managing a production timeline which included storyboarding, prototyping, task delegation, and weekly progress reports. The entire project was made in three weeks.",
+      "The website you are currently on! The website was based off of a HTML5up template but I have added my own custom Javacript scripts to allow me to easily add Projects and Completed Coursework. I have also slightly modified the formatting",
 
     links: [
       {
         name: "Github Repository",
         link: "https://github.com/Wyatt-Hawes/ARTG120-Final-Project-Trash-Game",
+      },
+    ],
+  },
+  {
+    date: "2021-Current",
+    title: "Data Structures and Algorithms I've Made",
+    imgSrc: "images/DataStructuresAlgorithms.jpg",
+    description:
+      "View my GitHub to view the code of the many kinds of data structures I have made mostly in C and C++. Some Data Structures include: Bloom filter, Bit Vector, Hash Table, Doubly Linked List, Priority Queue, Stack, Set, Sparse Matrix, Graph, List, Big Integer, Binary Search Tree Dictionary, and Red Black Tree Dictionary. Some Algorithms in C/C++ include: Bubble sort, Heap sort, Quick sort, Shell sort, RSA Encryption and Decryption, Huffman encoding, DFS, BFS, Bi-Directional A*, and Monte-Carlo Tree Search",
+
+    links: [
+      {
+        name: "Github Repository",
+        link: "https://github.com/Wyatt-Hawes#data-structures--algorithms-ive-created",
       },
     ],
   },
