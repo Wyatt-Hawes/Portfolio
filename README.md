@@ -5,6 +5,7 @@ README
 
 Custom Files
 - [assets/js/add_projects.js](https://github.com/Wyatt-Hawes/Portfolio/blob/main/assets/js/add_projects.js)
+- [assets/js/add_coursework.js](https://github.com/Wyatt-Hawes/Portfolio/blob/main/assets/js/add_coursework.js)
 
 
 [Website Link](https://wyatt-hawes.github.io/Portfolio/)
