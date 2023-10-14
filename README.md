@@ -1,7 +1,7 @@
 
 
 README
-- A basic website based off of the free use "Massively" template b. I have added my own content and custom Javascript Scripts (assets/js/add_projects.js)[https://github.com/Wyatt-Hawes/Portfolio/blob/main/assets/js/add_projects.js] to allow me to edit and update my portfolio easily in a data-driven way.
+- A basic website based off of the free use "Massively" template b. I have added my own content and custom Javascript Scripts [assets/js/add_projects.js](https://github.com/Wyatt-Hawes/Portfolio/blob/main/assets/js/add_projects.js) to allow me to edit and update my portfolio easily in a data-driven way.
 
 -
 [Website Link](https://wyatt-hawes.github.io/Portfolio/)
