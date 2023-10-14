@@ -142,7 +142,7 @@ const projects = [
     links: [
       {
         name: "Github Repository",
-        link: "https://github.com/Wyatt-Hawes/ARTG120-Final-Project-Trash-Game",
+        link: "https://github.com/Wyatt-Hawes/Portfolio",
       },
     ],
   },
