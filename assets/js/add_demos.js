@@ -75,23 +75,6 @@ console.log("adding demos");
     },
     {
       date: "2023",
-      title: "Shade: Command Pattern Practice",
-      imgSrc: "images/Demos/Shade.JPG",
-      description:
-        "A demo focused on practicing the Command Design Pattern to create a prototype. The character movements are abstracted to commands which allows their actions to be replayed by 'shades' that can still influence the game world in the same way the player could. The main takeaway that I had from this demo is just how much easier following `good coding practices` can speed up development time.",
-      links: [
-        {
-          name: "Playable Link",
-          link: "https://wyatt-hawes.github.io/Shade-Prototype/",
-        },
-        {
-          name: "Github Repository",
-          link: "https://github.com/Wyatt-Hawes/Shade-Prototype",
-        },
-      ],
-    },
-    {
-      date: "2023",
       title: "Paint: Programming Pattern Demo",
       imgSrc: "images/Demos/Sketchpad.JPG",
       description:
@@ -126,6 +109,40 @@ console.log("adding demos");
     },
     {
       date: "2022",
+      title: "Plink: Phaser Physics Demo",
+      imgSrc: "images/Demos/Plinko.JPG",
+      description:
+        "A demo made to practice the use of scenes in the Phaser game engine as well as learn how to use and apply a physics engine. I mainly learned that being able to work with the restrictions placed upon you by a specific engine or library can be both a positive and negative experience. On one hand, it may be overly challenging to complete your idea, but restrictions lead to additional creativity which more often than not, outweighs the pain of figuring out a new library.",
+      links: [
+        {
+          name: "Playable Link",
+          link: "https://wyatt-hawes.github.io/Physics-Demo_Phaser/",
+        },
+        {
+          name: "Github Repository",
+          link: "https://github.com/Wyatt-Hawes/Physics-Demo_Phaser",
+        },
+      ],
+    },
+    {
+      date: "2023",
+      title: "Shade: Command Pattern Practice",
+      imgSrc: "images/Demos/Shade.JPG",
+      description:
+        "A demo focused on practicing the Command Design Pattern to create a prototype. The character movements are abstracted to commands which allows their actions to be replayed by 'shades' that can still influence the game world in the same way the player could. The main takeaway that I had from this demo is just how much easier following `good coding practices` can speed up development time.",
+      links: [
+        {
+          name: "Playable Link",
+          link: "https://wyatt-hawes.github.io/Shade-Prototype/",
+        },
+        {
+          name: "Github Repository",
+          link: "https://github.com/Wyatt-Hawes/Shade-Prototype",
+        },
+      ],
+    },
+    {
+      date: "2022",
       title: "iSpy: Phaser Demo",
       imgSrc: "images/Demos/iSpy.JPG",
       description:
@@ -155,23 +172,6 @@ console.log("adding demos");
         {
           name: "Github Repository",
           link: "https://github.com/Wyatt-Hawes/simple_cinematic",
-        },
-      ],
-    },
-    {
-      date: "2022",
-      title: "Plink: Phaser Physics Demo",
-      imgSrc: "images/Demos/Plinko.JPG",
-      description:
-        "A demo made to practice the use of scenes in the Phaser game engine as well as learn how to use and apply a physics engine. I mainly learned that being able to work with the restrictions placed upon you by a specific engine or library can be both a positive and negative experience. On one hand, it may be overly challenging to complete your idea, but restrictions lead to additional creativity which more often than not, outweighs the pain of figuring out a new library.",
-      links: [
-        {
-          name: "Playable Link",
-          link: "https://wyatt-hawes.github.io/Physics-Demo_Phaser/",
-        },
-        {
-          name: "Github Repository",
-          link: "https://github.com/Wyatt-Hawes/Physics-Demo_Phaser",
         },
       ],
     },
