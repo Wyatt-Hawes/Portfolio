@@ -25,7 +25,7 @@ console.log("adding demos");
     {
       date: "2023",
       title: "Geocoins: Programming Pattern Practice",
-      imgSrc: "images/Demos/Geocoin.jpg",
+      imgSrc: "images/Demos/Geocoin.JPG",
       description:
         "This demo was mainly focused on creating code that is flexible and can be easily changed to meet changing requirements. It also served as practice for multiple types of design patterns while learning a new library. Those being the Flyweight Pattern, Singleton Pattern, and the Momento Pattern. The demo also uses the browsers local storage to save your progress between sessions. My biggest take away from this demo is that there are many ways to solve the same problem and one way is not always necessarily better than another. You must take in the context surrounding the problem and select a solution that works the best for you as well as the problem.",
       links: [
@@ -59,7 +59,7 @@ console.log("adding demos");
     {
       date: "2023",
       title: "Flytrap: Managing Constraints",
-      imgSrc: "images/Demos/Flytrap.jpg",
+      imgSrc: "images/Demos/Flytrap.JPG",
       description:
         "A demo made in the `crisp-game` library which is extremely limited in terms of capability as it only allows for a single user input in the form of a button press. This demo served as a way to learn a new library but also how to work around constraints. My biggest takeaway from this demo is that constraints can often lead to creative and clever solutions that push the boundaries of what is possible.",
       links: [
@@ -200,7 +200,7 @@ console.log("adding demos");
 	</article>
   */
 
-    //Create all tags needed for the above structure
+    //Create all tags needed for the above structure, yea its kinda messy
     const article = document.createElement("article");
     const header = document.createElement("header");
     const span_date = document.createElement("span");
