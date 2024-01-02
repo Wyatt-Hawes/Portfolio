@@ -24,6 +24,57 @@ console.log("adding demos");
     // },
     {
       date: "2023",
+      title: "Prototype: Rotary Phone",
+      imgSrc: "images/2023-2024/rotary.PNG",
+      description:
+        "What's the best way to make people uncomfortable or paranoid by using phones? Can the act of using a phone be dreadful? We wanted to create a digital experience that included a rotary phone. We wanted to discover if even using a rotary phone could be an engaging activity, let alone inflict paranoia. We managed to create an engaging rotary phone that felt surprisingly good to fiddle with. Visit the links below for more info.",
+      links: [
+        {
+          name: "Playable Link",
+          link: "https://wyatt-hawes.github.io/Digital_Phone_Prototype/",
+        },
+        {
+          name: "Github Repository",
+          link: "https://github.com/Wyatt-Hawes/Digital_Phone_Prototype",
+        },
+      ],
+    },
+    {
+      date: "2023",
+      title: "Prototype: Phone Demon",
+      imgSrc: "images/2023-2024/demon.PNG",
+      description:
+        "What's the best way to make people uncomfortable or paranoid by using phones? Can the act of using a phone be dreadful? This prototype helped us answer that question by attempting to inflict paranoia through slightly unsettling fortunes that would be received by texting a real life phone number. We found this prototype to be quite successful because of the anonymous nature of texting. Visit the links below for more info.",
+      links: [
+        {
+          name: "Playable Instructions",
+          link: "https://github.com/Wyatt-Hawes/Phone_Demon_Prototype",
+        },
+        {
+          name: "Github Repository",
+          link: "https://github.com/Wyatt-Hawes/Phone_Demon_Prototype",
+        },
+      ],
+    },
+    {
+      date: "2023",
+      title: "Prototype: Paranoid Phone",
+      imgSrc: "images/2023-2024/paranoid.PNG",
+      description:
+        "What's the best way to make people uncomfortable or paranoid by using phones? Can the act of using a phone be dreadful? This prototype aimed to help us answer that question. We wanted to test different types of paranoia and this prototype focused on attempting to create a paranoid feeling whenever you received a notification on your phone. We discovered that engaging in this game did lead to paranoia when receiving a notification on your phone. Visit the links below for more info.",
+      links: [
+        {
+          name: "Rules Link",
+          link: "https://github.com/Wyatt-Hawes/Paranoid_Phone_Prototype",
+        },
+        {
+          name: "Github Repository",
+          link: "https://github.com/Wyatt-Hawes/Paranoid_Phone_Prototype",
+        },
+      ],
+    },
+    {
+      date: "2023",
       title: "Geocoins: Programming Pattern Practice",
       imgSrc: "images/Demos/Geocoin.JPG",
       description:

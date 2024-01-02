@@ -5,6 +5,74 @@ console.log("adding projects");
 {
   const projects = [
     {
+      date: "2024",
+      title: "Discord Infraction Bot",
+      imgSrc: "images/2023-2024/discord.jpg",
+      description:
+        "A simple Discord bot made for my friends and I to use. After setting up a trigger command, any user can check the amount of moderation actions another user has performed. This mainly includes mutes of other users, disconnects of other users, and moving users into different voice channels. The bot reads through the Discord 'audit log' using the Discord API and sends a message back to the user with the statistics that were found.",
+      links: [
+        {
+          name: "Github Repository",
+          link: "https://github.com/Wyatt-Hawes/discord-audit-eye",
+        },
+      ],
+    },
+    {
+      date: "2024",
+      title: "Lethal Company: Scaled Penalties",
+      imgSrc: "images/2023-2024/lethal.png",
+      description:
+        "A mod created for the game 'Lethal Company'. It modifies the game so players recieved a scaled penalty when they fail to recover a body in large multiplayer lobbies. This was created when I realized that when my friends and I played, the penalty felt much too harsh. So I created a mod that we used to make the game more enjoyable for us. For ease of distribution, I hosted the game to Thunderstore (an online mod manager) and the mod now has over 4000 downloads!",
+      links: [
+        {
+          name: "Thunderstore Page",
+          link: "https://thunderstore.io/c/lethal-company/p/MigisFring/ScaledPenalties/",
+        },
+        {
+          name: "Github Repository",
+          link: "https://github.com/Wyatt-Hawes/Lethal-Company-Scaled-Penalties",
+        },
+      ],
+    },
+    {
+      date: "2024",
+      title: "Online Bouquet Creator",
+      imgSrc: "images/2023-2024/bouquet.png",
+      description:
+        "An online bouquet creator that I made as a gift. It is not pushing any knowledge boundaries but I believe that relaxing and programming something enjoyable is just as important. It comes with size and rotation control as well as an unlimited amount of undo/redos. You can also export your bouquet in a 4x upscale.",
+      links: [
+        {
+          name: "Playable Link",
+          link: "https://",
+        },
+        {
+          name: "Github Repository",
+          link: "https://",
+        },
+      ],
+    },
+    {
+      date: "2023",
+      title: "Garden Simulator",
+      imgSrc: "images/2023-2024/garden_simulator.PNG",
+      description:
+        "This was a project where the primary focus was on shifting and changing requirements. This meant that our code had to be flexible and easily modifiable. We additionally focused on internationalization and making our game a downloadable web app that could be played offline. This introduced many challenges that required unique and interesting solutions. More info in code README.",
+      links: [
+        {
+          name: "Playable Link",
+          link: "https://wyatt-hawes.github.io/Garden-Simulator/",
+        },
+        {
+          name: "Github Repository - Source Code",
+          link: "https://github.com/Wyatt-Hawes/Garden-Simulator/tree/main",
+        },
+        {
+          name: "Github Repository - Web App Code",
+          link: "https://github.com/Wyatt-Hawes/Garden-Simulator/tree/Downloadable-Version",
+        },
+      ],
+    },
+    {
       date: "2022 - 2023",
       title: "Disposable",
       imgSrc: "images/Disposable.png",
