@@ -22,7 +22,7 @@ console.log("adding projects");
       title: "Lethal Company: Scaled Penalties",
       imgSrc: "images/2023-2024/lethal.png",
       description:
-        "A mod created for the game 'Lethal Company'. It modifies the game so players recieved a scaled penalty when they fail to recover a body in large multiplayer lobbies. This was created when I realized that when my friends and I played, the penalty felt much too harsh. So I created a mod that we used to make the game more enjoyable for us. For ease of distribution, I hosted the game to Thunderstore (an online mod manager) and the mod now has over 4000 downloads!",
+        "A mod created for the game 'Lethal Company'. It modifies the game so players recieved a scaled penalty when they fail to recover a body in large multiplayer lobbies. This was created when I realized that when my friends and I played, the penalty felt much too harsh. So I created a mod that we used to make the game more enjoyable for us. For ease of distribution, I hosted the game to Thunderstore (an online mod manager) and the mod now has over 11000 downloads!",
       links: [
         {
           name: "Thunderstore Page",
@@ -31,6 +31,34 @@ console.log("adding projects");
         {
           name: "Github Repository",
           link: "https://github.com/Wyatt-Hawes/Lethal-Company-Scaled-Penalties",
+        },
+      ],
+    },
+    {
+      date: "2023",
+      title: "Facial Recognition TicTacToe",
+      imgSrc: "images/Neural_Network.jpg",
+      description:
+        "Using a self-trained neural network based off Kaggle dataset of faces allows. The user can play Tic Tac Toe using facial expressions to select where to play. The neural network employs convolution layers, maxpooling layers, dense layers, dropout layers, and data augmentation to minimize overfitting to the relatively small data set.",
+
+      links: [
+        {
+          name: "Github Repository",
+          link: "https://github.com/Wyatt-Hawes/Facial-Recognition-TicTacToe",
+        },
+      ],
+    },
+    {
+      date: "2023",
+      title: "Youtube 'Adblockers not allowed' blocker",
+      imgSrc: "images/Adblockers Not Allowed.png",
+      description:
+        "A simple Chrome extension made in javascript that blocks the youtube popup that states Adblockers are not allowed on youtube. I made this in a couple of days because I was annoyed with how the popup would make you wait ~5 seconds and pause your video.  It does this by searching for the 'style-scope ytd-app' tag and deleting the element. After it is deleted, the video player is grabbed and the 'resume' command is given which gives a seamless blocking experience",
+
+      links: [
+        {
+          name: "Github Repository",
+          link: "https://github.com/Wyatt-Hawes/Youtube-Adblock-Not-Allowed-Blocker",
         },
       ],
     },
@@ -48,27 +76,6 @@ console.log("adding projects");
         {
           name: "Github Repository",
           link: "https://",
-        },
-      ],
-    },
-    {
-      date: "2023",
-      title: "Garden Simulator",
-      imgSrc: "images/2023-2024/garden_simulator.PNG",
-      description:
-        "This was a project where the primary focus was on shifting and changing requirements. This meant that our code had to be flexible and easily modifiable. We additionally focused on internationalization and making our game a downloadable web app that could be played offline. This introduced many challenges that required unique and interesting solutions. More info in code README.",
-      links: [
-        {
-          name: "Playable Link",
-          link: "https://wyatt-hawes.github.io/Garden-Simulator/",
-        },
-        {
-          name: "Github Repository - Source Code",
-          link: "https://github.com/Wyatt-Hawes/Garden-Simulator/tree/main",
-        },
-        {
-          name: "Github Repository - Web App Code",
-          link: "https://github.com/Wyatt-Hawes/Garden-Simulator/tree/Downloadable-Version",
         },
       ],
     },
@@ -118,35 +125,6 @@ console.log("adding projects");
       links: [],
     },
     {
-      date: "2023",
-      title: "Youtube 'Adblockers not allowed' blocker",
-      imgSrc: "images/Adblockers Not Allowed.png",
-      description:
-        "A simple Chrome extension made in javascript that blocks the youtube popup that states Adblockers are not allowed on youtube. I made this in a couple of days because I was annoyed with how the popup would make you wait ~5 seconds and pause your video.  It does this by searching for the 'style-scope ytd-app' tag and deleting the element. After it is deleted, the video player is grabbed and the 'resume' command is given which gives a seamless blocking experience",
-
-      links: [
-        {
-          name: "Github Repository",
-          link: "https://github.com/Wyatt-Hawes/Youtube-Adblock-Not-Allowed-Blocker",
-        },
-      ],
-    },
-    {
-      date: "2023",
-      title: "Facial Recognition TicTacToe",
-      imgSrc: "images/Neural_Network.jpg",
-      description:
-        "Using a self-trained neural network based off Kaggle dataset of faces allows. The user can play Tic Tac Toe using facial expressions to select where to play. The neural network employs convolution layers, maxpooling layers, dense layers, dropout layers, and data augmentation to minimize overfitting to the relatively small data set.",
-
-      links: [
-        {
-          name: "Github Repository",
-          link: "https://github.com/Wyatt-Hawes/Facial-Recognition-TicTacToe",
-        },
-      ],
-    },
-
-    {
       date: "2022 - 2023",
       title: "Huffman Encoding",
       imgSrc: "images/C_Programming_Language.png",
@@ -179,7 +157,7 @@ console.log("adding projects");
       title: "My Personal Computer",
       imgSrc: "images/Personal-Computer.jpg",
       description:
-        "My personal computer is an ongoing project that I originally built over 10 years ago and continued to work on and upgrade ever since. I've troubleshot and fixed all sorts of issues which has given me a large amount of knowledge and practice with computer building. I keep the stickers of new and replacement parts as I get them to serve as reminders of the progress I have made over the years.",
+        "My personal computer is an ongoing project that I originally built over 10 years ago and continued to work on and upgrade ever since. I've troubleshot and fixed all sorts of issues including an elusive memory bug and network card issues. This has given me a large amount of knowledge and practice with computer building. I keep the stickers of new and replacement parts as I get them to serve as reminders of the progress I have made over the years.",
 
       links: [],
     },
@@ -212,6 +190,27 @@ console.log("adding projects");
         {
           name: "Github Repository",
           link: "https://github.com/Wyatt-Hawes/Portfolio",
+        },
+      ],
+    },
+        {
+      date: "2023",
+      title: "Garden Simulator",
+      imgSrc: "images/2023-2024/garden_simulator.PNG",
+      description:
+        "This was a project where the primary focus was on shifting and changing requirements. This meant that our code had to be flexible and easily modifiable. We additionally focused on internationalization and making our game a downloadable web app that could be played offline. This introduced many challenges that required unique and interesting solutions. More info in code README.",
+      links: [
+        {
+          name: "Playable Link",
+          link: "https://wyatt-hawes.github.io/Garden-Simulator/",
+        },
+        {
+          name: "Github Repository - Source Code",
+          link: "https://github.com/Wyatt-Hawes/Garden-Simulator/tree/main",
+        },
+        {
+          name: "Github Repository - Web App Code",
+          link: "https://github.com/Wyatt-Hawes/Garden-Simulator/tree/Downloadable-Version",
         },
       ],
     },
