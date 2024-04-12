@@ -22,6 +22,74 @@ console.log("adding demos");
     //     },
     //   ],
     // },
+        {
+      date: "2023",
+      title: "Snake Buddies: Managing Constraints as a Team",
+      imgSrc: "images/Demos/Snake.png",
+      description:
+        "This demo is fairly similar to the Flytrap demo as they both use the `crisp-game` library which is intentionally quite restrictive. Despite this, my team and I were able to create a prototype to discover if it was possible to create an engaging multiplayer experience with only a single-input. My biggest takeaway is that communication is key for a team that is heavily constrained as everyone should be in sync with their ideas. I also discovered constraints heavy constraints force successful collaboration and teamwork.",
+      links: [
+        {
+          name: "Playable Link",
+          link: "https://spacedoddyssey.github.io/170-Prototype-2/?Group21Prototype2",
+        },
+        {
+          name: "Github Repository",
+          link: "https://github.com/SpaceDoddyssey/170-Prototype-2",
+        },
+      ],
+    },
+    {
+      date: "2023",
+      title: "Flytrap: Managing Constraints",
+      imgSrc: "images/Demos/Flytrap.JPG",
+      description:
+        "A demo made in the `crisp-game` library which is extremely limited in terms of capability as it only allows for a single user input in the form of a button press. This demo served as a way to learn a new library but also how to work around constraints. My biggest takeaway from this demo is that constraints can often lead to creative and clever solutions that push the boundaries of what is possible.",
+      links: [
+        {
+          name: "Playable Link",
+          link: "https://wyatt-hawes.github.io/170-Personal-Prototype/?PersonalPrototype",
+        },
+        {
+          name: "Github Repository",
+          link: "https://github.com/Wyatt-Hawes/170-Personal-Prototype",
+        },
+      ],
+    },
+        {
+      date: "2023",
+      title: "Geocoins: Programming Pattern Practice",
+      imgSrc: "images/Demos/Geocoin.JPG",
+      description:
+        "This demo was mainly focused on creating code that is flexible and can be easily changed to meet changing requirements. It also served as practice for multiple types of design patterns while learning a new library. Those being the Flyweight Pattern, Singleton Pattern, and the Momento Pattern. The demo also uses the browsers local storage to save your progress between sessions. My biggest take away from this demo is that there are many ways to solve the same problem and one way is not always necessarily better than another. You must take in the context surrounding the problem and select a solution that works the best for you as well as the problem.",
+      links: [
+        {
+          name: "Playable Link",
+          link: "https://wyatt-hawes.github.io/cmpm-121-demo-3/",
+        },
+        {
+          name: "Github Repository",
+          link: "https://github.com/Wyatt-Hawes/cmpm-121-demo-3",
+        },
+      ],
+    },
+    {
+      date: "2023",
+      title: "Clicker Game: Incremental Development",
+      imgSrc: "images/Demos/Clicker.JPG",
+      description:
+        "A practice of creating a product through incremental changes and development, ensuring that you are delivering a useable product at every step along the way. A main focus was also good coding practices, ensuring that you are coding in a scalable and efficient manner. Creating upgrades in a data-driven manner allows designers to not have to understand the inner workings of the program, rather just how they interface with it.",
+      links: [
+        {
+          name: "Playable Link",
+          link: "https://wyatt-hawes.github.io/CMPM-121-demo-1/",
+        },
+        {
+          name: "Github Repository",
+          link: "https://github.com/Wyatt-Hawes/CMPM-121-demo-1",
+        },
+      ],
+    },
     {
       date: "2023",
       title: "Prototype: Rotary Phone",
@@ -75,57 +143,6 @@ console.log("adding demos");
     },
     {
       date: "2023",
-      title: "Geocoins: Programming Pattern Practice",
-      imgSrc: "images/Demos/Geocoin.JPG",
-      description:
-        "This demo was mainly focused on creating code that is flexible and can be easily changed to meet changing requirements. It also served as practice for multiple types of design patterns while learning a new library. Those being the Flyweight Pattern, Singleton Pattern, and the Momento Pattern. The demo also uses the browsers local storage to save your progress between sessions. My biggest take away from this demo is that there are many ways to solve the same problem and one way is not always necessarily better than another. You must take in the context surrounding the problem and select a solution that works the best for you as well as the problem.",
-      links: [
-        {
-          name: "Playable Link",
-          link: "https://wyatt-hawes.github.io/cmpm-121-demo-3/",
-        },
-        {
-          name: "Github Repository",
-          link: "https://github.com/Wyatt-Hawes/cmpm-121-demo-3",
-        },
-      ],
-    },
-    {
-      date: "2023",
-      title: "Snake Buddies: Managing Constraints as a Team",
-      imgSrc: "images/Demos/Snake.png",
-      description:
-        "This demo is fairly similar to the Flytrap demo as they both use the `crisp-game` library which is intentionally quite restrictive. Despite this, my team and I were able to create a prototype to discover if it was possible to create an engaging multiplayer experience with only a single-input. My biggest takeaway is that communication is key for a team that is heavily constrained as everyone should be in sync with their ideas. I also discovered constraints heavy constraints force successful collaboration and teamwork.",
-      links: [
-        {
-          name: "Playable Link",
-          link: "https://spacedoddyssey.github.io/170-Prototype-2/?Group21Prototype2",
-        },
-        {
-          name: "Github Repository",
-          link: "https://github.com/SpaceDoddyssey/170-Prototype-2",
-        },
-      ],
-    },
-    {
-      date: "2023",
-      title: "Flytrap: Managing Constraints",
-      imgSrc: "images/Demos/Flytrap.JPG",
-      description:
-        "A demo made in the `crisp-game` library which is extremely limited in terms of capability as it only allows for a single user input in the form of a button press. This demo served as a way to learn a new library but also how to work around constraints. My biggest takeaway from this demo is that constraints can often lead to creative and clever solutions that push the boundaries of what is possible.",
-      links: [
-        {
-          name: "Playable Link",
-          link: "https://wyatt-hawes.github.io/170-Personal-Prototype/?PersonalPrototype",
-        },
-        {
-          name: "Github Repository",
-          link: "https://github.com/Wyatt-Hawes/170-Personal-Prototype",
-        },
-      ],
-    },
-    {
-      date: "2023",
       title: "Paint: Programming Pattern Demo",
       imgSrc: "images/Demos/Sketchpad.JPG",
       description:
@@ -138,23 +155,6 @@ console.log("adding demos");
         {
           name: "Github Repository",
           link: "https://github.com/Wyatt-Hawes/cmpm-121-demo-2",
-        },
-      ],
-    },
-    {
-      date: "2023",
-      title: "Clicker Game: Incremental Development",
-      imgSrc: "images/Demos/Clicker.JPG",
-      description:
-        "A practice of creating a product through incremental changes and development, ensuring that you are delivering a useable product at every step along the way. A main focus was also good coding practices, ensuring that you are coding in a scalable and efficient manner. Creating upgrades in a data-driven manner allows designers to not have to understand the inner workings of the program, rather just how they interface with it.",
-      links: [
-        {
-          name: "Playable Link",
-          link: "https://wyatt-hawes.github.io/CMPM-121-demo-1/",
-        },
-        {
-          name: "Github Repository",
-          link: "https://github.com/Wyatt-Hawes/CMPM-121-demo-1",
         },
       ],
     },
