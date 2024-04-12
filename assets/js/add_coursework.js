@@ -3,6 +3,18 @@ console.log('adding projects');
 {
   const courses = [
     {
+      date: 'Spring 2024',
+      title: 'Capstone: Full Stack Web Development II (CSE-187)',
+      description:
+        'This course continues the examination of current uses of the World-Wide Web for delivery of the sophisticated interactive applications we use daily. Advanced development techniques are examined with continued emphasis on automated testing. A sizable team project is undertaken to introduce topics including, but not limited to, automated build pipelines, penetration testing, API versioning, and deployment at scale.',
+    },
+    {
+      date: 'Spring 2024',
+      title: 'Capstone: Game Production Studio (CMPM-172)',
+      description:
+        'Students work in teams to produce fully functional games based on previously developed game subsets. Focus on production including scaling, long-term player experience, teaching mechanics through interaction, developing multi-stage narratives/scenarios, and varying gameplay as players develop new understandings and abilities.',
+    },
+    {
       date: 'Winter 2024',
       title: 'Full Stack Web Development I (CSE-186)',
       description:
