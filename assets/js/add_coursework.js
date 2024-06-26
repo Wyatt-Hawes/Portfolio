@@ -3,6 +3,12 @@ console.log('adding projects');
 {
   const courses = [
     {
+      date: 'Summer 2024',
+      title: 'Design Practicum (CMPM - 179)',
+      description:
+        'Provides the opportunity to practice the creation of novel computer games. Students learn a new game-making technology, then create three games using this technology.',
+    },
+    {
       date: 'Spring 2024',
       title: 'Capstone: Full Stack Web Development II (CSE-187)',
       description:
