@@ -23,7 +23,7 @@
     {
       date: '2024',
       title: 'Full-Stack `Amazon` Clone',
-      imgSrc: 'images/2023-2024/Slugmart.png',
+      imgSrc: 'images/2023-2024/slugmart.png',
       description:
         'Developed a full-stack web application mirroring the functionalities of Amazon. Using technologies like React, MaterialUI, Node.js, Express, Docker, PostgreSQL, AWS, Microservices, and GraphQL. The project comprised a desktop and mobile UI front end, a Node.js server, and a PostgreSQL database all containerized and hosted on the cloud. Development followed an incremental test-driven development approach utilizing Jest, Vitetest, ReactTest, and Puppeteer. I ensured 100% code coverage across frontend, backend, and end-to-end tests for all implemented functionality. I created an internal GraphQL API for the project to handle internal requests for the main site, Vendor site and API, and Administration site. Implements accessibility features such as ARIA attributes and accommodating limited input and reaction times, aligning with inclusive design principles. Private repository available upon request.',
       links: [
