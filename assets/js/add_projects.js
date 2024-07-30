@@ -22,6 +22,19 @@
     },
     {
       date: '2024',
+      title: 'Full-Stack `Amazon` Clone',
+      imgSrc: 'images/2023-2024/Slugmart.png',
+      description:
+        'Developed a full-stack web application mirroring the functionalities of Amazon. Using technologies like React, MaterialUI, Node.js, Express, Docker, PostgreSQL, AWS, Microservices, and GraphQL. The project comprised a desktop and mobile UI front end, a Node.js server, and a PostgreSQL database all containerized and hosted on the cloud. Development followed an incremental test-driven development approach utilizing Jest, Vitetest, ReactTest, and Puppeteer. I ensured 100% code coverage across frontend, backend, and end-to-end tests for all implemented functionality. I created an internal GraphQL API for the project to handle internal requests for the main site, Vendor site and API, and Administration site. Implements accessibility features such as ARIA attributes and accommodating limited input and reaction times, aligning with inclusive design principles. Private repository available upon request.',
+      links: [
+        {
+          name: 'Github Repository [Private]',
+          link: 'https://github.com/Wyatt-Hawes/SlugMart',
+        },
+      ],
+    },
+    {
+      date: '2024',
       title: 'Full-Stack `Slack` Clone',
       imgSrc: 'images/2023-2024/Diligent.jpg',
       description:
@@ -48,10 +61,26 @@
     },
     {
       date: '2024',
+      title: 'Custom Visual Taskboard',
+      imgSrc: 'images/2023-2024/Pixel Sammy.png',
+      description:
+        'Created a custom visual taskboard (similar to Trello) to grant technicians access to the tools of a Visual Taskboard while integrating automatic ticket organization and routing. Uses the ServiceNow API, React, Node.js, and Express to host a local server allowing for technicians to organize and categorize tickets with a point and click menu. Enables automatic organization of client responses & stale tickets without technician input. This project was created as the current visual taskboard used in the ResNet office was frustrating for technicians to use so I created this taskboard to fix the issues we encountered and implement the features we wished were present.',
+      links: [],
+    },
+    {
+      date: '2024',
       title: 'Ticketing Dashboard',
       imgSrc: 'images/2023-2024/Dashboard.PNG',
       description:
         'Enhanced the UCSC Resnet ticket management dashboard, which uses the ServiceNow, WhenIWork, Trello, and Google Calendar APIs.  I developed a bash script to automate the startup and connection of the ticketing system & open ticket dashboard between offices, which reduced a daily 10-20 minute task down to several seconds. ',
+      links: [],
+    },
+    {
+      date: '2024',
+      title: 'Chess & Chess AI',
+      imgSrc: 'images/2023-2024/Chess.jpg',
+      description:
+        'Created the game of Chess in C++. Implemented a Chess AI that follows the common UCI interface allowing shareability in addition to Bot VS Bot matchups.',
       links: [],
     },
     {
