@@ -3,6 +3,24 @@ console.log('adding projects');
 {
   const courses = [
     {
+      date: 'Fall 2024',
+      title: 'Parallel Programming (CSE - 113)',
+      description:
+        'Introduction to parallel and concurrent programming. Topics include: types of parallel computers and programming platforms; design, implementation, and optimization of programs for parallel and multicore processors; basic and advanced programming techniques; performance analysis and load balancing; and selected parallel algorithms.',
+    },
+    {
+      date: 'Fall 2024',
+      title: 'Principles of Computer Systems Design (CMPM - 130)',
+      description:
+        'Covers the principles governing computer-systems design and complexity; familiarity with memory, storage, and networking; concurrency and synchronization; layering (abstraction and modularity); naming; client-server and virtualized system models; and performance.',
+    },
+    {
+      date: 'Fall 2024',
+      title: 'Design Practicum II (CMPM - 179)',
+      description:
+        'Provides the opportunity to practice the creation of novel computer games. Students learn a new game-making technology, then create three games using this technology.',
+    },
+    {
       date: 'Summer 2024',
       title: 'Design Practicum (CMPM - 179)',
       description:
