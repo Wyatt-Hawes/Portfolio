@@ -12,7 +12,7 @@
       links: [
         {
           name: 'Github Repository [Private]',
-          link: 'https://github.com/Wyatt-Hawes/discord-audit-eye',
+          //link: 'https://github.com/Wyatt-Hawes/discord-audit-eye',
         },
         {
           name: 'Steam Store Listing',
