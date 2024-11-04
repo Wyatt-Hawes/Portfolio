@@ -21,12 +21,6 @@ console.log('adding projects');
         'Covers topics in distributed computing including communication, naming, synchronization, consistency and replication, fault tolerance, and security. Examples drawn from peer-to-peer systems, online gaming, the World Wide Web; other systems also used to illustrate approaches to these topics.',
     },
     {
-      date: 'Fall 2024',
-      title: 'Design Practicum II (CMPM - 179)',
-      description:
-        'Provides the opportunity to practice the creation of novel computer games. Students learn a new game-making technology, then create three games using this technology.',
-    },
-    {
       date: 'Summer 2024',
       title: 'Design Practicum (CMPM - 179)',
       description:
