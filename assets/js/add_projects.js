@@ -88,7 +88,7 @@
       title: 'Lethal Company: Scaled Penalties',
       imgSrc: 'images/2023-2024/lethal.png',
       description:
-        "A mod created for the game 'Lethal Company'. It modifies the game so players recieved a scaled penalty when they fail to recover a body in large multiplayer lobbies. This was created when I realized that when my friends and I played, the penalty felt much too harsh. So I created a mod that we used to make the game more enjoyable for us. For ease of distribution, I hosted the game to Thunderstore (an online mod manager) and the mod now has over 12000 downloads!",
+        "A mod created for the game 'Lethal Company'. It modifies the game so players recieved a scaled penalty when they fail to recover a body in large multiplayer lobbies. This was created when I realized that when my friends and I played, the penalty felt much too harsh. So I created a mod that we used to make the game more enjoyable for us. For ease of distribution, I hosted the game to Thunderstore (an online mod manager) and the mod now has over 15000 downloads!",
       links: [
         {
           name: 'Thunderstore Page',
