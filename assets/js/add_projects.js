@@ -65,7 +65,12 @@
       imgSrc: 'images/2023-2024/Pixel Sammy.png',
       description:
         'Created a custom visual taskboard (similar to Trello) to grant technicians access to the tools of a Visual Taskboard while integrating automatic ticket organization and routing. Uses the ServiceNow API, React, Node.js, and Express to host a local server allowing for technicians to organize and categorize tickets with a point and click menu. Enables automatic organization of client responses & stale tickets without technician input. This project was created as the current visual taskboard used in the ResNet office was frustrating for technicians to use so I created this taskboard to fix the issues we encountered and implement the features we wished were present.',
-      links: [],
+      links: [
+        {
+          name: 'Respository Link',
+          link: 'https://github.com/Wyatt-Hawes/ResNet-Visual-Taskboard',
+        },
+      ],
     },
     {
       date: '2024',
