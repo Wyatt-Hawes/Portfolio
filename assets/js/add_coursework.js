@@ -10,15 +10,15 @@ console.log('adding projects');
     },
     {
       date: 'Fall 2024',
-      title: 'Principles of Computer Systems Design (CMPM - 130)',
-      description:
-        'Covers the principles governing computer-systems design and complexity; familiarity with memory, storage, and networking; concurrency and synchronization; layering (abstraction and modularity); naming; client-server and virtualized system models; and performance.',
-    },
-    {
-      date: 'Fall 2024',
       title: 'Distributed Systems (CMPM - 138)',
       description:
         'Covers topics in distributed computing including communication, naming, synchronization, consistency and replication, fault tolerance, and security. Examples drawn from peer-to-peer systems, online gaming, the World Wide Web; other systems also used to illustrate approaches to these topics.',
+    },
+    {
+      date: 'Fall 2024',
+      title: 'Principles of Computer Systems Design (CMPM - 130)',
+      description:
+        'Covers the principles governing computer-systems design and complexity; familiarity with memory, storage, and networking; concurrency and synchronization; layering (abstraction and modularity); naming; client-server and virtualized system models; and performance.',
     },
     {
       date: 'Summer 2024',

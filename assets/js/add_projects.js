@@ -5,24 +5,45 @@
   const projects = [
     {
       date: '2024',
+      title: 'Custom Visual Taskboard',
+      imgSrc: 'images/2023-2024/taskboard.png',
+      description:
+        'Created a custom visual taskboard (similar to Trello) to grant technicians access to the tools of a Visual Taskboard while integrating automatic ticket organization and routing. Uses the ServiceNow API, React, Node.js, and Express to host a local server allowing for technicians to organize and categorize tickets with a point and click menu. Enables automatic organization of client responses & stale tickets without technician input. This project was created as the current visual taskboard used in the ResNet office was frustrating for technicians to use so I created this taskboard to fix the issues we encountered and implement the features we wished were present. Some details are blurred',
+      links: [
+        {
+          name: 'Respository Link',
+          link: 'https://github.com/Wyatt-Hawes/ResNet-Visual-Taskboard',
+        },
+      ],
+    },
+    {
+      date: '2024',
+      title: 'Distributed System in Go',
+      imgSrc: 'images/2023-2024/distributed.jpg',
+      description:
+        'A Replicated Key-Value Store Distributed System made in GO. Replicates data to all available replicas in the system, automatically detects downed replicas (and notifies all other replicas of this info). Enforces Causal Consistency through the use of Causal Meta-data with a test-suite to ensure functionality.',
+      links: [],
+    },
+    {
+      date: '2024',
       title: 'Published Game: 3 Bulky Bears',
       imgSrc: 'images/2023-2024/3BB.jpg',
       description:
         'Publishing of a finished project as a team (16 people) collaboration across multiple sub-teams (Programmers, Gameplay Designers, Story Designers, Artists, Sound Designers, and ‘Investors’). Completed the full product life cycle. Private repository available upon request. I was a lead developer responsible for creating many of the in-game mechanics. Some include, movement, wind that blows the player, soft-body mushrooms, re-bindable controls, menu selection, and more! Private repository available upon request.',
       links: [
         {
-          name: 'Github Repository [Private]',
-          //link: 'https://github.com/Wyatt-Hawes/discord-audit-eye',
-        },
-        {
           name: 'Steam Store Listing',
           link: 'https://store.steampowered.com/app/2957270/Three_Bulky_Bears/',
+        },
+        {
+          name: 'Github Repository [Private]',
+          link: 'https://github.com/SpaceDoddyssey/ThreeBulkyBears',
         },
       ],
     },
     {
       date: '2024',
-      title: 'Full-Stack `Amazon` Clone',
+      title: 'Full-Stack E-commerce App',
       imgSrc: 'images/2023-2024/slugmart.png',
       description:
         'Developed a full-stack web application mirroring the functionalities of Amazon. Using technologies like React, MaterialUI, Node.js, Express, Docker, PostgreSQL, AWS, Microservices, and GraphQL. The project comprised a desktop and mobile UI front end, a Node.js server, and a PostgreSQL database all containerized and hosted on the cloud. Development followed an incremental test-driven development approach utilizing Jest, Vitetest, ReactTest, and Puppeteer. I ensured 100% code coverage across frontend, backend, and end-to-end tests for all implemented functionality. I created an internal GraphQL API for the project to handle internal requests for the main site, Vendor site and API, and Administration site. Implements accessibility features such as ARIA attributes and accommodating limited input and reaction times, aligning with inclusive design principles. Private repository available upon request.',
@@ -35,7 +56,15 @@
     },
     {
       date: '2024',
-      title: 'Full-Stack `Slack` Clone',
+      title: 'Multithreaded HTTP Server in C',
+      imgSrc: 'images/2023-2024/httpserver.jpg',
+      description:
+        'A multi-threaded HTTP server in C (storing and retrieving files) made without using the stdio library. Instead using only system calls as I wanted to understand what really really needs to happen when creating an HTTP server.',
+      links: [],
+    },
+    {
+      date: '2024',
+      title: 'Full-Stack Messaging App',
       imgSrc: 'images/2023-2024/Diligent.jpg',
       description:
         'Developed a full-stack web application mirroring the functionalities of the popular ‘Slack’ messaging platform. Using technologies like React, MaterialUI, Node.js, Express, Docker, and PostgreSQL. The project comprised a desktop and mobile UI front end, a Node.js server, and a PostgreSQL database. Development followed an incremental test-driven development approach utilizing Jest, Vitetest, ReactTest, and Puppeteer. I ensured 100% code coverage across frontend, backend, and end-to-end tests for all implemented functionality. I created a RESTful API for the project to handle CRUD-style requests. Implements accessibility features such as ARIA attributes and accommodating limited input and reaction times, aligning with inclusive design principles. Private repository available upon request.',
@@ -52,25 +81,7 @@
       imgSrc: 'images/2023-2024/Diligent.jpg',
       description:
         'Developed a full-stack web application mirroring the functionalities facebook. Uses similar technologies and methodologies as the Slack clone.',
-      links: [
-        {
-          name: 'Private Repository Available Upon Request',
-          // link: 'https://github.com/Wyatt-Hawes/Diligint',
-        },
-      ],
-    },
-    {
-      date: '2024',
-      title: 'Custom Visual Taskboard',
-      imgSrc: 'images/2023-2024/Pixel Sammy.png',
-      description:
-        'Created a custom visual taskboard (similar to Trello) to grant technicians access to the tools of a Visual Taskboard while integrating automatic ticket organization and routing. Uses the ServiceNow API, React, Node.js, and Express to host a local server allowing for technicians to organize and categorize tickets with a point and click menu. Enables automatic organization of client responses & stale tickets without technician input. This project was created as the current visual taskboard used in the ResNet office was frustrating for technicians to use so I created this taskboard to fix the issues we encountered and implement the features we wished were present.',
-      links: [
-        {
-          name: 'Respository Link',
-          link: 'https://github.com/Wyatt-Hawes/ResNet-Visual-Taskboard',
-        },
-      ],
+      links: [],
     },
     {
       date: '2024',
@@ -93,7 +104,7 @@
       title: 'Lethal Company: Scaled Penalties',
       imgSrc: 'images/2023-2024/lethal.png',
       description:
-        "A mod created for the game 'Lethal Company'. It modifies the game so players recieved a scaled penalty when they fail to recover a body in large multiplayer lobbies. This was created when I realized that when my friends and I played, the penalty felt much too harsh. So I created a mod that we used to make the game more enjoyable for us. For ease of distribution, I hosted the game to Thunderstore (an online mod manager) and the mod now has over 15000 downloads!",
+        "A mod created for the game 'Lethal Company'. It modifies the game so players recieved a scaled penalty when they fail to recover a body in large multiplayer lobbies. This was created when I realized that when my friends and I played, the penalty felt much too harsh. So I created a mod that we used to make the game more enjoyable for us. For ease of distribution, I hosted the game to Thunderstore (an online mod manager) and the mod now has over 16,000 downloads!",
       links: [
         {
           name: 'Thunderstore Page',
@@ -303,7 +314,7 @@
       title: "Data Structures and Algorithms I've Made",
       imgSrc: 'images/DataStructuresAlgorithms.jpg',
       description:
-        'View my GitHub to view the code of the many kinds of data structures I have made mostly in C and C++. Some Data Structures include: Bloom filter, Bit Vector, Hash Table, Doubly Linked List, Priority Queue, Stack, Set, Sparse Matrix, Graph, List, Big Integer, Binary Search Tree Dictionary, and Red Black Tree Dictionary. Some Algorithms in C/C++ include: Bubble sort, Heap sort, Quick sort, Shell sort, RSA Encryption and Decryption, Huffman encoding, DFS, BFS, Bi-Directional A*, and Monte-Carlo Tree Search',
+        'View my GitHub to view the code of the many kinds of data structures I have made mostly in C and C++. Some Data Structures include: Mutexes, Barriers, Concurrent Queue, Bloom filter, Bit Vector, Hash Table, Doubly Linked List, Priority Queue, Stack, Set, Sparse Matrix, Graph, List, Big Integer, Binary Search Tree Dictionary, and Red Black Tree Dictionary. Some Algorithms in C/C++ include: Bubble sort, Heap sort, Quick sort, Shell sort, RSA Encryption and Decryption, Huffman encoding, DFS, BFS, Bi-Directional A*, and Monte-Carlo Tree Search',
 
       links: [
         {

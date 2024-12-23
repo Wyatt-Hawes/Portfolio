@@ -23,6 +23,18 @@ console.log('adding demos');
     //   ],
     // },
     {
+      date: '2024',
+      title: 'Advent of Code 2024 (Go)',
+      imgSrc: 'images/Demos/aoc.jpg',
+      description: 'My solutions to the Advent of Code challenges!',
+      links: [
+        {
+          name: 'Github Repository',
+          link: 'https://github.com/Wyatt-Hawes/Advent_of_Code',
+        },
+      ],
+    },
+    {
       date: '2023',
       title: 'Snake Buddies: Managing External Constraints as a Team',
       imgSrc: 'images/Demos/Snake.png',
