@@ -26,11 +26,25 @@ console.log('adding demos');
       date: '2024',
       title: 'Advent of Code 2024 (Go)',
       imgSrc: 'images/Demos/aoc.jpg',
-      description: 'My solutions to the Advent of Code challenges!',
+      description:
+        'My solutions to the Advent of Code challenges! Used these challenges as a way to learn Go / Golang!',
       links: [
         {
           name: 'Github Repository',
           link: 'https://github.com/Wyatt-Hawes/Advent_of_Code',
+        },
+      ],
+    },
+    {
+      date: '2024',
+      title: 'Job Application Autofill',
+      imgSrc: 'images/Demos/auto.png',
+      description:
+        'A simple chrome extension that autofills common fields on job applications. Made as I was getting extremely tired filling out the repeated information',
+      links: [
+        {
+          name: 'Github Repository',
+          link: 'https://github.com/Wyatt-Hawes/Application_Autofill',
         },
       ],
     },

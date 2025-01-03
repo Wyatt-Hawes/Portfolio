@@ -25,6 +25,23 @@
       links: [],
     },
     {
+      date: '2024-2025',
+      title: 'Beyond Liberty Website',
+      imgSrc: 'images/2023-2024/beyond_liberty.png',
+      description:
+        'Web Developer for Beyond liberty (BeyondLiberty.org) and Pregnant Mare Rescue (Sanctuarypmr.org). Managed multiple domains, created multiple donation campaigns. and created custom "Sponsor-A-Horse" sponshorship program.',
+      links: [
+        {
+          name: 'PMR Website',
+          link: 'https://Sanctuarypmr.org',
+        },
+        {
+          name: 'Beyond Liberty Website',
+          link: 'https://BeyondLiberty.org',
+        },
+      ],
+    },
+    {
       date: '2024',
       title: 'Published Game: 3 Bulky Bears',
       imgSrc: 'images/2023-2024/3BB.jpg',
@@ -43,6 +60,27 @@
     },
     {
       date: '2024',
+      title: 'Multithreaded HTTP Server in C',
+      imgSrc: 'images/2023-2024/httpserver.jpg',
+      description:
+        'A multi-threaded HTTP server in C (storing and retrieving files) made without using the stdio library. Instead using only system calls as I wanted to understand what really really needs to happen when creating an HTTP server.',
+      links: [],
+    },
+    {
+      date: '2023-2024',
+      title: '2024 Student Technology Conference Website',
+      imgSrc: 'images/2023-2024/stc.png',
+      description:
+        'Web Developer for the Student Technology Conference & developed the 2023-2024 website (resnetstc.org/2024/)',
+      links: [
+        {
+          name: 'STC Website',
+          link: 'https://resnetstc.org/2024/',
+        },
+      ],
+    },
+    {
+      date: '2024',
       title: 'Full-Stack E-commerce App',
       imgSrc: 'images/2023-2024/slugmart.png',
       description:
@@ -53,14 +91,6 @@
           link: 'https://github.com/Wyatt-Hawes/SlugMart',
         },
       ],
-    },
-    {
-      date: '2024',
-      title: 'Multithreaded HTTP Server in C',
-      imgSrc: 'images/2023-2024/httpserver.jpg',
-      description:
-        'A multi-threaded HTTP server in C (storing and retrieving files) made without using the stdio library. Instead using only system calls as I wanted to understand what really really needs to happen when creating an HTTP server.',
-      links: [],
     },
     {
       date: '2024',
