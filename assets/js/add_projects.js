@@ -4,6 +4,19 @@
 {
   const projects = [
     {
+      date: '2025',
+      title: 'HomeAssistant XLights Scheduler Component',
+      imgSrc: 'images/2025/ha.png',
+      description:
+        'Overhauled Aleks xLights Schedule component to support selecting individual songs from playlists by implementing HomeAssistants BrowseMedia API into the component.',
+      links: [
+        {
+          name: 'Respository Link',
+          link: 'https://github.com/Wyatt-Hawes/ha-xlights',
+        },
+      ],
+    },
+    {
       date: '2024',
       title: 'Custom Visual Taskboard',
       imgSrc: 'images/2023-2024/taskboard.png',
